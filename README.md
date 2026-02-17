@@ -39,7 +39,7 @@ Ran 2 test suites: 2 tests passed, 0 failed
 ### Installation
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/simple-payment-contract.git
+git clone https://github.com/jemimagaga8-hue/simple-payment-contract.git
 
 # Navigate to project
 cd simple-payment-contract
